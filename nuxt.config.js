@@ -1,7 +1,4 @@
 export default {
-  server: {
-    host: '192.168.1.15' // default: localhost
-  },
   // Target: https://go.nuxtjs.dev/config-target
   target: 'static',
 
